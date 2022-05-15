@@ -10,7 +10,10 @@ Similarly histogram was plotted for temperature variation for last one year at m
 <br>
 # app.py
 <br/>
-In the second part of this project, selected data the database has been jsonified and uploaded into the wave address using app.route() function. 
+In the second part of this project, selected data the database has been jsonified and uploaded into the wave address using app.route() function in Flask. 
 <br/>
 The precipitation data with corresponding date can be accessed from the following link: 
 http://127.0.0.1:5000/api/v1.0/precipitation
+<br>
+More data link for stations and tempearture data at different conditions can be accessed using sublinks added to general link: http://127.0.0.1:5000
+
